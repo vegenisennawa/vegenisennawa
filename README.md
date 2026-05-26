@@ -9,4 +9,3 @@ Me apasiona construir soluciones limpias, documentar procesos técnicos con alta
 ## 📬 Conéctate Conmigo
 
 * **LinkedIn:** [linkedin.com/in/paulinaaguila](https://www.linkedin.com/in/paulinaaguila)
-* **Portafolio Web:** *(Enlace a tu portafolio si ya lo tienes o planeas construirlo)*
